@@ -25,7 +25,7 @@ struct ContentView: View {
         }
         .padding()
     }
-    // test Change indicator
+    // test Commit & Push
 }
 
 #Preview {
